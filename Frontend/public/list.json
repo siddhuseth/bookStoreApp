@@ -1,0 +1,96 @@
+[{
+        "id":1,
+        "name":"Story Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"50",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":3,
+        "name":"Comedy Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":5,
+        "name":"Music Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":7,
+        "name":"Music Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"20",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":8,
+        "name":"Food Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":9,
+        "name":"Music Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"0",
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":10,
+        "name":"Food Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"30",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"10",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    },
+    {
+        "id":12,
+        "name":"Food Book",
+        "title":"It is a beautiful and impressive book for reading",
+        "price":"20",
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149330605.jpg?t=st=1723917452~exp=1723921052~hmac=3a0431702ae59aad0097a8a7233b7da27f00ea9e6f5a170017312b3273d36377&w=740"
+    }]
